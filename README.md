@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @ChetanGodhwani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML , CSS , C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hey, I'm Chetan 👋
 
-<!---
-ChetanGodhwani/ChetanGodhwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Full-Stack Developer who enjoys building real-world web applications and learning how things work behind the scenes.
+
+I work mainly with Java, J2EE, JavaScript, React, Node.js, Express.js, and MongoDB.
+
+Currently exploring backend development, AWS, and scalable web applications.
+
+**Tech Stack:**
+
+- Java, J2EE, JavaScript, React, Node.js, Express.js
+- MongoDB, MySQL, PostgreSQL
+- Redux, Tailwind CSS, Socket.IO
+- AWS, Git & GitHub
+
+I believe in learning by building and improving one project at a time.
+
+Cheers,\
+Chetan Godhwani
